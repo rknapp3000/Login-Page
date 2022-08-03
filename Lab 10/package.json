@@ -1,0 +1,20 @@
+{
+  "name": "lab-10",
+  "version": "1.0.0",
+  "description": "A basic server with user login, based on a static JSON file with usernames and hashed passwords as well as a logging middleware.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Ryan Knapp 10473777",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.1",
+    "express-handlebars": "^5.3.0",
+    "express-session": "^1.17.3",
+    "handlebars": "^4.7.7"
+  }
+}

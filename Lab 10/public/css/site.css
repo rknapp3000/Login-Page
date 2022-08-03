@@ -1,0 +1,90 @@
+body {
+    background: #f9a113;
+}
+
+h1 {
+    color: #9614e1;
+    text-align: center;
+    font-size: 36px;
+    font-family: "Goudy Bookletter 1911";
+    font-weight: normal;
+    font-style: bolder;
+}
+
+h2 {
+    color: #9614e1;
+    text-align: center;
+    font-size: 28px;
+    font-family: "Goudy Bookletter 1911";
+    font-weight: bolder;
+}
+
+h3 {
+    color: #9614e1;
+    text-align: center;
+    font-size: 24px;
+    font-family: "Goudy Bookletter 1911";
+    font-weight: bolder;
+}
+
+h4 { 
+    text-align: center;
+    font-family: "Goudy Bookletter 1911";
+    font-size: 18px;
+    font-weight: bolder;
+    color: red
+}
+
+label{
+    color: #9614e1;
+    font-size: 20px;
+    text-align: center;
+    font-family: "Goudy Bookletter 1911";
+    font-weight: bolder;
+}
+
+p {
+    color: #9614e1;
+    font-size: 20px;
+    font-family: "Goudy Bookletter 1911";
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+
+form { 
+    padding-top: 1in;
+    text-align: center;
+    padding-right: 1cm;
+}
+
+a:link {
+    color: #9614e1;
+    font-weight: bolder;
+    text-align: center;
+}
+
+a:hover {
+    color: #eb1515;
+}
+
+button {
+    font-family: "Goudy Bookletter 1911";
+    font-size: 17px;
+    background-color: #9614e1;
+    border-radius: 10px;
+    color: orange;
+    padding: 7px 7px;
+    text-align: center;
+    display: inline; 
+    cursor: auto;
+}
+
+button:hover {
+    background-color: whitesmoke;
+    color: #9614e1;
+}
+
+
+
+
+
