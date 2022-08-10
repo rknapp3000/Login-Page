@@ -36,6 +36,6 @@ module.exports = [
     firstName: "Ryan",
     lastName: "Knapp",
     profession: "Software Engineer",
-    bio: "Ryan Knapp is a 29 year old male who enjoys surfing, snowboarding, skateboarding, and playing electric guitar in his free time. He hopes to become a successful software engineer and use the skills learned in this class."
+    bio: "Ryan Knapp is a 29 year old male who enjoys surfing, snowboarding, skateboarding, ice hockey, and playing electric guitar in his free time. He hopes to become a successful software engineer and use the skills learned in this class."
   }
 ];
